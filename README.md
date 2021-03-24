@@ -24,5 +24,3 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Mock-Up
 URL (https://luiscruz-24.github.io/Password_Generator/)
-
-(./Assets/Captura.PNG)
