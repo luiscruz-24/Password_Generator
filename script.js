@@ -65,6 +65,9 @@ function generatePassword() {
       else if(lowercase == false && uppercase == true && special == false && numeric == true){
         chartset = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"
       }
+      else if(lowercase == true && uppercase == false && special == false && numeric == true){
+        chartset = "0123456789abcdefghijklmnopqrstuvwxyz"
+      }
 
       console.log(chartset);
 
